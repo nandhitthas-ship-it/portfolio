@@ -19,7 +19,7 @@
 
 <nav>
   <div class="nav-inner">
-    <a href="#hero" class="logo">Nandhitthasri<span>.</span></a>
+    <a href="#hero" class="logo">Nandhu<span>.</span></a>
     <div class="nav-links">
       <a href="#about">About</a>
       <a href="#skills">Skills</a>
