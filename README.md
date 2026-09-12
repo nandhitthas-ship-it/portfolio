@@ -4,8 +4,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nandhitthasri G — Software Developer & AI Enthusiast</title>
-<meta name="description" content="Portfolio of Nandhitthasri G , an Information Technology student, aspiring software developer, AI enthusiast and prompt engineer.">
+<title>Nandhu— Software Developer & AI Enthusiast</title>
+<meta name="description" content="Portfolio of Nandhu , an Information Technology student, aspiring software developer, AI enthusiast and prompt engineer.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -52,7 +52,7 @@
     <div class="hero-grid">
       <div>
         <div class="eyebrow reveal"><span class="dot"></span> Open to opportunities</div>
-        <h1 class="hero-name reveal">Hey, I'm <span class="highlight">Nandhitthasri G</span></h1>
+        <h1 class="hero-name reveal">Hey, I'm <span class="highlight">Nandhu</span></h1>
         <div id="typed-role" class="reveal"></div>
         <p class="hero-intro reveal">A third-year Information Technology student who loves turning ideas into working software. I build with code, explore what AI can do, and I'm always chasing the next thing worth learning.</p>
         <div class="btn-row reveal">
@@ -60,9 +60,9 @@
           <a href="#contact" class="btn btn-outline"><i class="fa-solid fa-envelope"></i> Contact Me</a>
         </div>
         <div class="social-row reveal">
-          <a class="social-icon" href="https://www.linkedin.com/in/nandhitthasri-g-45647b338?utm_source=share_via&utm_content=profile&utm_medium=member_android" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
-          <a class="social-icon" href="https://github.com/nandhitthas-ship-it" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
-          <a class="social-icon" href="mailto:nandhitthas@gmail.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+          <a class="social-icon" href="https://www.linkedin.com/in/nandhu-45647b8?utm_source=share_via&utm_content=profile&utm_medium=member_android" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a class="social-icon" href="https://github.com/nandhus-ship-it" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+          <a class="social-icon" href="mailto:nandhu@gmail.com" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         </div>
       </div>
       <div class="hero-photo-wrap reveal">
@@ -262,8 +262,8 @@
         <div class="toast" id="form-toast">Thanks for reaching out! I'll get back to you soon.</div>
       </form>
       <div class="glass contact-card reveal">
-        <div class="contact-info-item"><i class="fa-solid fa-envelope"></i><div><h4>Email</h4><p>nandhitthas@gmail.com</p></div></div>
-        <div class="contact-info-item"><i class="fa-solid fa-phone"></i><div><h4>Phone</h4><p>+91 90427 65757</p></div></div>
+        <div class="contact-info-item"><i class="fa-solid fa-envelope"></i><div><h4>Email</h4><p>nandhu@gmail.com</p></div></div>
+        <div class="contact-info-item"><i class="fa-solid fa-phone"></i><div><h4>Phone</h4><p>+91 98756 43210</p></div></div>
         <div class="contact-info-item"><i class="fa-solid fa-location-dot"></i><div><h4>Based in</h4><p>Tamil Nadu, India</p></div></div>
         <div class="contact-btn-row">
           <a href="https://linkedin.com/" target="_blank" rel="noopener" class="btn btn-outline" style="flex:1; justify-content:center;"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a>
@@ -275,7 +275,7 @@
 </section>
 
 <footer>
-  <p>Designed and Developed by <span class="heart">Nandhitthasri G</span> · © <span id="year"></span></p>
+  <p>Designed and Developed by <span class="heart">Nandhu</span> · © <span id="year"></span></p>
 </footer>
 
 <div id="scroll-top"><i class="fa-solid fa-arrow-up"></i></div>
